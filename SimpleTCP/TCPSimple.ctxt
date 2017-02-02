@@ -1,5 +1,0 @@
-#BlueJ class context
-comment0.params=args
-comment0.target=void\ main(java.lang.String[])
-comment0.text=\r\n\ Create\ a\ ServerSocket\ via\ port\#\ 6789\ and\ wait\ for\ connections\ from\ client\r\n\ Hence\ the\ server\ application\ will\ be\ assigned\ to\ address\ 6789\r\n
-numComments=1
